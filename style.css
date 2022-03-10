@@ -1,0 +1,25 @@
+html {
+    font-family: 'Roboto';
+    font-size: 16px;
+    line-height: 1.5;
+    color: #2c3841;
+    font-weight: 300;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    max-width: 560px;
+}
+
+h1 {
+    font-weight: 300;
+}
+
+.logo {
+    width: 64px;
+    height: 64px;
+}
